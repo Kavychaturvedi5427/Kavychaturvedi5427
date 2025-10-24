@@ -1,50 +1,60 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kavya Chaturvedi
-=========================================================================================================================================
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #f3ec78, #af4261); -webkit-background-clip: text; color: transparent;">
+    Hi! I'm Kavya Chaturvedi
+  </span>
+</h1>
 
-Android Dev | DSA With JAVA | CyberSecurity
--------------------------------------------
-
-🎓 3rd-year B.Tech CSE undergrad | 📱 Android Developer in progress | 🚀 Building modern apps with Java & Material UI | 💡 Problem-solving enthusiast (DSA with Java)
-
-* 🌍  I'm based in Kanpur, Uttar Pradesh  
-* ✉️  You can contact me at [ss3207428@gmail.com](mailto:ss3207428@gmail.com)  
-* 🚀  I'm currently working on [The Ledger](https://github.com/Kavychaturvedi5427/The-Ledger.git)  
-* 💼  [![Portfolio App](https://img.shields.io/badge/🎨%20View%20Portfolio_App-blue?style=for-the-badge&logo=github)(https://github.com/Kavychaturvedi5427/Portfolio_App/releases/tag/v1.2)  
-* 🧠  I'm currently learning Android Development  
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<p align="center">
+  <em>Android Dev | DSA With JAVA | CyberSecurity</em>
 </p>
 
-### Socials
+---
 
+### 🎓 About Me
+- 3rd-year B.Tech CSE undergrad  
+- 📱 Android Developer in progress | 🚀 Building modern apps with Java & Material UI  
+- 💡 Problem-solving enthusiast (DSA with Java)  
+- 🌍 Based in Kanpur, Uttar Pradesh  
+- ✉️ Contact: [ss3207428@gmail.com](mailto:ss3207428@gmail.com)  
+
+---
+
+### 🛠 Skills
+<p align="left">
+  <strong>Java:</strong>
+  <img src="https://img.shields.io/badge/Java-80%25-green?style=for-the-badge&logo=java&logoColor=white" />
+  <strong>Android:</strong>
+  <img src="https://img.shields.io/badge/Android-Ongoing-brightgreen?style=for-the-badge&logo=android&logoColor=white" />
+  <strong>DSA:</strong>
+  <img src="https://img.shields.io/badge/DSA-Ongoing-yellow?style=for-the-badge" />
+  <strong>Material UI:</strong>
+  <img src="https://img.shields.io/badge/Material_UI-Ongoing-blue?style=for-the-badge&logo=mui&logoColor=white" />
+  <strong>HTML5/CSS3:</strong>
+  <img src="https://img.shields.io/badge/HTML5-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <strong>MySQL:</strong>
+  <img src="https://img.shields.io/badge/MySQL-Ongoing-lightblue?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
+- [The Ledger](https://github.com/Kavychaturvedi5427/The-Ledger.git) – Expense tracker app  
+- [![Portfolio App](https://img.shields.io/badge/🎨%20View%20Portfolio_App-blue?style=for-the-badge&logo=github)](https://github.com/Kavychaturvedi5427/Portfolio_App/releases/tag/v1.2)
+
+---
+
+### 🔗 Connect with Me
 <p align="left">
 <a href="https://www.github.com/Kavychaturvedi5427" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>
 <a href="https://www.x.com/kavychaturvedi" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
-</picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/kavya-chaturvedi-1a181932a" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/kavy___17/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
 </a>
 </p>
