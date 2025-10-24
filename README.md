@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Android Dev | DSA With JAVA | CyberSecurity</em>
+  <em>Android Dev | DSA With JAVA </em>
 </p>
 
 ---
