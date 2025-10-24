@@ -8,7 +8,7 @@ Android Dev | DSA With JAVA | CyberSecurity
 
 * 🌍  I'm based in Kanpur Uttar Pradesh
 * ✉️  You can contact me at [ss3207428@gmail.com](mailto:ss3207428@gmail.com)
-* 🚀  I'm currently working on [Portolfio APP](http://https://github.com/Kavychaturvedi5427/Portfolio_App.git)
+* 🚀  I'm currently working on [The Ledger](https://github.com/Kavychaturvedi5427/The-Ledger.git)
 * 🧠  I'm currently learning Android Development
 
 <p align="left">
