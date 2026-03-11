@@ -1,106 +1,29 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #f3ec78, #af4261); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Kavya Chaturvedi
-  </span>
-</h1>
+<h1 align="center">Hi 👋, I'm Kavya Chaturvedi</h1>
+<h3 align="center">Building Android Apps & Solving Algorithms</h3>
 
-<p align="center">
-  <em>Android Developer in Progress • DSA with Java • Building Practical Apps</em>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavychaturvedi5427&label=Profile%20views&color=0e75b6&style=flat" alt="kavychaturvedi5427" /> </p>
 
-<p align="center">
-  <a href="mailto:ss3207428@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/kavya-chaturvedi-1a181932a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://www.github.com/Kavychaturvedi5427">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
-  </a>
-</p>
+<p align="left"> <a href="https://twitter.com/kavychaturvedi" target="blank"><img src="https://img.shields.io/twitter/follow/kavychaturvedi?logo=twitter&style=for-the-badge" alt="kavychaturvedi" /></a> </p>
 
----
+- 🔭 I’m currently working on [UniGo](https://github.com/Kavychaturvedi5427/UniGo.git)
 
-## 🎓 About Me
-- 🎓 **3rd-year B.Tech CSE student**
-- 📱 Passionate about **Android Development (Java + Material UI)**
-- 🧠 Actively practicing **DSA with Java**
-- 🚀 Love building clean, functional, real-world apps
-- 🌍 Based in **Kanpur, Uttar Pradesh**
+- 🌱 Currently learning and building in **Android Development**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Kavychaturvedi5427](https://github.com/Kavychaturvedi5427)
 
-## 🛠 Tech Stack
+- 💬 Ask me about **Android Development, Java & Data Structures**
 
-### 💻 Languages & Core
-![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=java)
-![DSA](https://img.shields.io/badge/DSA-Active-yellow?style=for-the-badge)
+- 📫 How to reach me **ss3207428@gmail.com**
 
-### 📱 Android Development
-![Android](https://img.shields.io/badge/Android-Java-brightgreen?style=for-the-badge&logo=android)
-![Material UI](https://img.shields.io/badge/Material%20UI-Ongoing-blue?style=for-the-badge)
-
-### 🌐 Web & Database
-![HTML5](https://img.shields.io/badge/HTML5-Strong-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Strong-blue?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-Learning-lightblue?style=for-the-badge&logo=mysql)
-
----
-
-## 🚀 Featured Projects
-
-### 📊 The Ledger
-> **Expense Tracker Android App**  
-- Track daily expenses  
-- Clean UI & logical structure  
-
-🔗 **Repository:**  
-https://github.com/Kavychaturvedi5427/The-Ledger.git  
-
-📲 **Available on Play Store:**  
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.kavya.theledger)
-
----
-
-### 🎨 Portfolio App
-> **Personal Android Portfolio App**  
-- Showcases skills & projects  
-- Smooth UI and navigation  
-
-🔗 **Release:**  
-https://github.com/Kavychaturvedi5427/Portfolio_App/releases/tag/v1.2
-
----
-
-## 📈 Currently Working On
-### 🚀 UniGo
-> **Student Productivity & Academic Management App**
-
-🔗 **Repository:**  
-https://github.com/Kavychaturvedi5427/UniGo.git
-
-
----
-
-## 🔗 Connect With Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.github.com/Kavychaturvedi5427" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-</a>
-<a href="https://www.x.com/kavychaturvedi" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" />
-</a>
-<a href="https://www.linkedin.com/in/kavya-chaturvedi-1a181932a" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
-</a>
-<a href="https://www.instagram.com/kavy___17/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
-</a>
+<a href="https://twitter.com/kavychaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavychaturvedi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavyachaturvedi58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyachaturvedi58" height="30" width="40" /></a>
+<a href="https://instagram.com/kavy___17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavy___17" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ss3207428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ss3207428" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  ⭐ Stars won’t fix bugs, but they do boost morale.
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavychaturvedi5427&show_icons=true&locale=en&layout=compact" alt="kavychaturvedi5427" /></p>
