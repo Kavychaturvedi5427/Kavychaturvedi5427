@@ -1,29 +1,77 @@
-<h1 align="center">Hi 👋, I'm Kavya Chaturvedi</h1>
-<h3 align="center">Building Android Apps & Solving Algorithms</h3>
+# Hi, I'm Kavya Chaturvedi 👋
+**Android Developer | Algorithm Enthusiast**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavychaturvedi5427&label=Profile%20views&color=0e75b6&style=flat" alt="kavychaturvedi5427" /> </p>
+Building clean, scalable mobile experiences and solving complex problems through Data Structures & Algorithms.
 
-<p align="left"> <a href="https://twitter.com/kavychaturvedi" target="blank"><img src="https://img.shields.io/twitter/follow/kavychaturvedi?logo=twitter&style=for-the-badge" alt="kavychaturvedi" /></a> </p>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyachaturvedi58)
+[![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ss3207428/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kavychaturvedi)
 
-- 🔭 I’m currently working on [UniGo](https://github.com/Kavychaturvedi5427/UniGo.git)
+---
 
-- 🌱 Currently learning and building in **Android Development**
+## 🚀 At a Glance
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kavychaturvedi5427](https://github.com/Kavychaturvedi5427)
+- 🔭 **Current Focus:** Developing **UniGo**, a streamlined transit solution.
+- 🌱 **Deep Diving:** Advanced Android architectural patterns and Jetpack Compose.
+- 💻 **Problem Solving:** Active on LeetCode, focusing on optimized algorithm design.
+- 📫 **Contact:** Reach out via **ss3207428@gmail.com**
 
-- 💬 Ask me about **Android Development, Java & Data Structures**
+---
 
-- 📫 How to reach me **ss3207428@gmail.com**
+## 📱 Published Android Applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kavychaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavychaturvedi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kavyachaturvedi58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyachaturvedi58" height="30" width="40" /></a>
-<a href="https://instagram.com/kavy___17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavy___17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ss3207428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ss3207428" height="30" width="40" /></a>
+| App | Description | Link |
+| :--- | :--- | :--- |
+| **UniGo** | A smart transit solution designed to simplify campus navigation and transportation. | [Play Store](https://play.google.com/store/apps/details?id=com.kavya.unigo) |
+| **The Ledger** | A clean and minimal expense tracking application for managing daily finances. | [Play Store](https://play.google.com/store/apps/details?id=com.kavya.theledger) |
+| **Atmos** | A minimalist weather application providing real-time weather updates. | Coming Soon |
+
+---
+
+## 🎨 App Feature Graphics
+
+### UniGo
+<p align="center">
+<img src="images/unigo_feature_graphic.png" width="80%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### The Ledger
+<p align="center">
+<img src="images/ledger_feature_graphic.png" width="80%">
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavychaturvedi5427&show_icons=true&locale=en&layout=compact" alt="kavychaturvedi5427" /></p>
+---
+
+## 🛠 Tech Stack
+
+### Languages & Core
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Data Structures](https://img.shields.io/badge/DSA-Algorithm-blue)
+
+### Tools & Databases
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavychaturvedi5427&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavychaturvedi5427&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavychaturvedi5427&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+</p>
+
+---
+
+<p align="center">
+Built with ❤️ by Kavya Chaturvedi
+</p>
