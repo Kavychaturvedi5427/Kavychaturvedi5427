@@ -42,6 +42,7 @@ Building clean, scalable mobile experiences and solving complex problems through
 <img src="images/ledger_feature_graphic.png" width="50%">
 </a>
 </p>
+
 ---
 
 ## 🛠 Tech Stack
