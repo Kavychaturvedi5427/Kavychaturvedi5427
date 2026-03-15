@@ -32,14 +32,14 @@ Building clean, scalable mobile experiences and solving complex problems through
 ### UniGo
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.kavya.unigo">
-<img src="images/unigo_feature_graphics.png" width="85%">
+<img src="images/unigo_feature_graphics.png" width="50%">
 </a>
 </p>
 
 ### The Ledger
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.kavya.theledger">
-<img src="images/ledger_feature_graphic.png" width="85%">
+<img src="images/ledger_feature_graphic.png" width="50%">
 </a>
 </p>
 ---
