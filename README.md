@@ -27,19 +27,21 @@ Building clean, scalable mobile experiences and solving complex problems through
 | **Atmos** | A minimalist weather application providing real-time weather updates. | Coming Soon |
 
 ---
-
 ## 🎨 App Feature Graphics
 
 ### UniGo
 <p align="center">
-<img src="images/unigo_feature_graphic.png" width="80%">
+<a href="https://play.google.com/store/apps/details?id=com.kavya.unigo">
+<img src="images/unigo_feature_graphics.png" width="85%">
+</a>
 </p>
 
 ### The Ledger
 <p align="center">
-<img src="images/ledger_feature_graphic.png" width="80%">
+<a href="https://play.google.com/store/apps/details?id=com.kavya.theledger">
+<img src="images/ledger_feature_graphic.png" width="85%">
+</a>
 </p>
-
 ---
 
 ## 🛠 Tech Stack
