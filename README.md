@@ -28,7 +28,7 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2593c3-a6f8-49bb-b02c-3d1cbf30bfda.gif">
 
 - 🤖 **Currently Building:** [StealthPad](https://github.com/Kavychaturvedi5427/StealthPad) — an encryption-based notes app
-- 🌱 **Deep Diving:** Advanced Android architecture (MVVM) & Jetpack Compose
+- 🌱 **Deep Diving:** Advanced Android architecture patterns (MVVM)
 - 🍃 **Backend Craft:** Spring Boot REST APIs, powering my Android apps end-to-end
 - 💻 **Problem Solving:** Active on LeetCode, focused on optimized algorithm design
 - ⚙️ **DevOps:** CI/CD pipelines with GitHub Actions
@@ -123,17 +123,17 @@ An encryption-based notes app with a disguise mode and biometric lock, built for
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,compose" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" height="45"/>
 </p>
 
-<p align="center"><i>Leveling up from Java/MVVM into Kotlin & Jetpack Compose for my next Android projects.</i></p>
+<p align="center"><i>Going deeper into backend development — REST API design, database modeling, and deployment.</i></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,kotlin,spring,mysql,firebase,mongodb,git,github,figma,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,mysql,firebase,mongodb,git,github,figma,postman&perline=6" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
