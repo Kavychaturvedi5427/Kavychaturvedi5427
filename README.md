@@ -27,7 +27,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2593c3-a6f8-49bb-b02c-3d1cbf30bfda.gif">
 
-- 🤖 **Currently Building:** [UniGo](https://github.com/Kavychaturvedi5427/UniGo) — a smart transit & campus navigation app
+- 🤖 **Currently Building:** [StealthPad](https://github.com/Kavychaturvedi5427/StealthPad) — an encryption-based notes app
 - 🌱 **Deep Diving:** Advanced Android architecture (MVVM) & Jetpack Compose
 - 🍃 **Backend Craft:** Spring Boot REST APIs, powering my Android apps end-to-end
 - 💻 **Problem Solving:** Active on LeetCode, focused on optimized algorithm design
@@ -79,12 +79,12 @@ A full-stack residential society management system for tracking dues, complaints
 </td>
 <td width="50%" valign="top">
 
-### 🌤️ Atmos
-A minimalist weather application providing real-time weather updates with a clean, focused interface.
+### 🔒 [StealthPad](https://github.com/Kavychaturvedi5427/StealthPad)
+An encryption-based notes app with a disguise mode and biometric lock, built for privacy-conscious note-taking.
 
-<img src="https://skillicons.dev/icons?i=java,androidstudio" height="30"/>
+<img src="https://skillicons.dev/icons?i=java,androidstudio,firebase" height="30"/>
 
-`Coming Soon`
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kavychaturvedi5427/StealthPad)
 
 </td>
 </tr>
