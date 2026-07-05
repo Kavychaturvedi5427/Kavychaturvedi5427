@@ -68,6 +68,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Ensure output directory exists
+        run: mkdir -p profile
+
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
@@ -75,6 +78,9 @@ jobs:
           output_path: profile/trophy.svg
           theme: algolia
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check file was created
+        run: ls -la profile/
 
       - name: Commit trophy
         run: |
