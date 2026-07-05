@@ -141,8 +141,8 @@ A minimalist weather application providing real-time weather updates with a clea
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavychaturvedi5427&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kavychaturvedi5427&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/Kavychaturvedi5427/Kavychaturvedi5427/main/profile/top-langs.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Kavychaturvedi5427/Kavychaturvedi5427/main/profile/stats.svg" width="48%" />
 </p>
 
 <p align="center">
