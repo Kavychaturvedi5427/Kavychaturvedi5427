@@ -154,7 +154,7 @@ A minimalist weather application providing real-time weather updates with a clea
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kavychaturvedi5427/Kavychaturvedi5427/main/profile/trophy.svg" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavychaturvedi5427&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
